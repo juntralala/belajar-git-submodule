@@ -1,3 +1,3 @@
-let sayHello = name => {
-    return "Hello " + name
-}
+let sayHello = name => "Hello" + name
+
+let sayQuest = () => "Hello"
